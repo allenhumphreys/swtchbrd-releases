@@ -18,5 +18,13 @@
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
             <enclosure url="swtchbrd-2.4.app.tgz" length="2540923" type="application/octet-stream"/>
         </item>
+        <item>
+            <title>2.6</title>
+            <pubDate>Tue, 13 Sep 2022 14:15:18 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.6.app.tgz" length="2541132" type="application/octet-stream" sparkle:edSignature="S4ZiYIqPH9GOYnZBDVbjCOsMafp3GX4rCqHmXb72v8RQl8VaMHjCSJYJBt/CdUjEDi+T3rDp8TOeTOCtgS+bBw=="/>
+        </item>
     </channel>
 </rss>
