@@ -1,14 +1,22 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>swtchbrd</title>
+        <title>swtchbrd-2.5</title>
+        <item>
+            <title>2.5</title>
+            <pubDate>Tue, 13 Sep 2022 14:03:43 -0400</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.5.app.tgz" length="2541261" type="application/octet-stream" sparkle:edSignature="En0iJcoim5H6YY4+9iaEwWbq3YdhHCJdn57JALK10hQ8cIiLgesIGtVsPNPn5TBymd9cDjJBIhQ/AWja0G1PBg=="/>
+        </item>
         <item>
             <title>2.4</title>
             <pubDate>Tue, 13 Sep 2022 13:15:30 -0400</pubDate>
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>2.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="swtchbrd.app.tgz" length="2540923" type="application/octet-stream"/>
+            <enclosure url="swtchbrd-2.4.app.tgz" length="2540923" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
