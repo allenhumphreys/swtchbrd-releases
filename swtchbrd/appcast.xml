@@ -5,18 +5,18 @@
         <item>
             <title>2.6</title>
             <pubDate>Tue, 13 Sep 2022 15:07:48 -0400</pubDate>
-            <sparkle:version>2</sparkle:version>
+            <sparkle:version>3</sparkle:version>
             <sparkle:shortVersionString>2.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.6.app.tgz" length="2541143" type="application/octet-stream" sparkle:edSignature="xusofoFVUxvBKqnsf9jkuMetcRFaaMj79IE6v79QLm6T7I8/FfdEFz0ikPHih3yQT59oHxh3ii2btQq8liDUBQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.6.app.tgz" length="2541335" type="application/octet-stream" sparkle:edSignature="H5+FujTRP3lteUCBshv2l30qAmmgMC1nryIY13L9/6sR2gZ/kD6TFYw4goT2Lv/U2Xj/C8eyd/tXYaEWAYRBCg=="/>
         </item>
         <item>
             <title>2.5</title>
             <pubDate>Tue, 13 Sep 2022 14:03:43 -0400</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>2</sparkle:version>
             <sparkle:shortVersionString>2.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.3</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.5.app.tgz" length="2541261" type="application/octet-stream" sparkle:edSignature="En0iJcoim5H6YY4+9iaEwWbq3YdhHCJdn57JALK10hQ8cIiLgesIGtVsPNPn5TBymd9cDjJBIhQ/AWja0G1PBg=="/>
+            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.5.app.tgz" length="2541351" type="application/octet-stream" sparkle:edSignature="RFahABBYSFLPqdyOjAOcJITXA7N0wt/zt8Ilq+KLuCBnxn8rv5WOmP+DYZuLjmLUj18PA/17UeDay8ANnuqrAA=="/>
         </item>
         <item>
             <title>2.4</title>
