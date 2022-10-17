@@ -4,11 +4,11 @@
         <title>swtchbrd</title>
         <item>
             <title>2.11.0</title>
-            <pubDate>Mon, 17 Oct 2022 12:32:18 -0400</pubDate>
-            <sparkle:version>9</sparkle:version>
+            <pubDate>Mon, 17 Oct 2022 12:49:30 -0400</pubDate>
+            <sparkle:version>10</sparkle:version>
             <sparkle:shortVersionString>2.11.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.11.app.tgz" length="2664030" type="application/octet-stream" sparkle:edSignature="wDIg5HR8nw+y88oGXuItBvU9oUmNWmcmRk52jvZzGf1epXd9tPYo6wOh9sRKOjP02pQxuMwryRIVO81lmuc3Ag=="/>
+            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.11.app.tgz" length="2664073" type="application/octet-stream" sparkle:edSignature="l/c2K48fZnVb4Iq8K6N3eDrEV9dlRFuCUz9wI5vvbFWXrBK3ADdczaGmDTYEyA5ueaO0uGvZ+D4mUUaXCSVtCw=="/>
         </item>
         <item>
             <title>2.10.0</title>
