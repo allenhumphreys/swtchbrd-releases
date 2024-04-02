@@ -3,6 +3,14 @@
     <channel>
         <title>swtchbrd</title>
         <item>
+            <title>2.15.0</title>
+            <pubDate>Tue, 02 Apr 2024 11:57:23 -0400</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>2.15.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.15.app.tgz" length="2609678" type="application/octet-stream" sparkle:edSignature="OnWKDNaS16brb35lACCYTZAu9aZc4E9vXNNOHpXinayp6kHeg85ZZ2qW6XjrNs9fC6uz52RWIfpJg08hIqhgCA=="/>
+        </item>
+        <item>
             <title>2.14.0</title>
             <pubDate>Mon, 01 Apr 2024 15:37:17 -0400</pubDate>
             <sparkle:version>14</sparkle:version>
