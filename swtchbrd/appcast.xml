@@ -3,6 +3,15 @@
     <channel>
         <title>swtchbrd</title>
         <item>
+            <title>2.16.0</title>
+            <description>Fixes the ghost window issue introduced by macOS Sonoma</description>
+            <pubDate>Sat, 15 Mar 2025 11:58:07 -0400</pubDate>
+            <sparkle:version>16</sparkle:version>
+            <sparkle:shortVersionString>2.16.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/allenhumphreys/swtchbrd-releases/main/swtchbrd/swtchbrd-2.16.app.tgz" length="2539485" type="application/octet-stream" sparkle:edSignature="CUbbuhZ1fZJyWyyCmiPWPMlpet9YXTO6eyOpMuicKmJOwsxtOBbQggYYKHvbxwaRL3CD0l+eRRvJOP8cFHUOAQ=="/>
+        </item>
+        <item>
             <title>2.15.0</title>
             <pubDate>Tue, 02 Apr 2024 11:57:23 -0400</pubDate>
             <sparkle:version>15</sparkle:version>
